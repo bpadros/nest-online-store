@@ -1,10 +1,10 @@
 {
     "type": "mysql",
-    "host": "bwpptdszlzxyj4exnylb-mysql.services.clever-cloud.com",
+    "host": "bwyuxudhskowyncuiuvd-mysql.services.clever-cloud.com",
     "port": 3306,
-    "username": "ulecpapn0uaq0aen",
-    "password": "E7GIbZrpbwqKr8evKCk7",
-    "database": "bwpptdszlzxyj4exnylb",
+    "username": "uj1og7efc8oqk4ga",
+    "password": "G9fqZLzN5xHfrgsHsqeV",
+    "database": "bwyuxudhskowyncuiuvd",
     "entities": ["dist/**/*.entity{.ts,.js}"],
     "synchronize": true
 }
